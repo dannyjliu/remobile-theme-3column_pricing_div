@@ -1,0 +1,22 @@
+/* This is the home page widget area for pricing options in the remobile theme by genesis for new rainmaker. The div code goes in the Content area widget*/
+
+<div class="one-third first">
+<div class="dashicons dashicons-welcome-write-blog"></div>
+<h4>Building a System</h4>
+<p class="margin-bottom">We feel packing light and authenticity are the cornerstones to experiencing a true and genuine happiness.</p>
+<p><a class="button" href="#">Read Journal</a></p>
+</div>
+
+<div class="one-third">
+<div class="dashicons dashicons-desktop"></div>
+<h4>Development</h4>
+<p class="margin-bottom">We launched the Genesis Framework, and since then WordPress themes have simply never been the same.</p>
+<p><a class="button" href="#">Our Services</a></p>
+</div>
+
+<div class="one-third last">
+<div class="dashicons dashicons-rss"></div>
+<h4>Newsletter</h4>
+<p class="margin-bottom">Like what you read on our company blog? Get it delivered to your inbox and enjoy it with your morning coffee.</p>
+<p><a class="button" href="#">Sign Up Now</a></p>
+</div>
