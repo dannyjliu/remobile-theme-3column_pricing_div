@@ -1,0 +1,72 @@
+<div class="one-third">
+<div class="dashicons dashicons-rss"></div>
+<h4>Train to become a digital champion</h4>
+<p class="margin-bottom">Like what you read on our company blog? Get it delivered to your inbox and enjoy it with your morning coffee.</p>
+<p><a class="button" href="#">Show Me How</a></p>
+</div>
+
+<div class="one-third">
+<div class="dashicons dashicons-welcome-write-blog"></div>
+<h4>Build Your Own Systems Team</h4>
+<p class="margin-bottom">In this Free Training you'll learn step-by-step how to build a highly functioning team from scratch. </p>
+<p><a class="button" href="#">Let's Do It!</a></p>
+</div>
+
+<div class="one-third last">
+<div class="dashicons dashicons-desktop"></div>
+<h4>Develop a Market Automation Plan</h4>
+<p class="margin-bottom">We launched the Genesis Framework, and since then WordPress themes have simply never been the same.</p>
+<p><a class="button" href="#">Sign Me Up!</a></p>
+</div>
+
+<i class="fa fa-usd"></i>
+
+<i class="glyphicon glyphicon-usd"></i>
+
+
+/*3column pricing
+<p>Typography is, quite simply, the art and technique of arranging type. It's central to the work and skills of a designer and is about much more than making the words legible. Your choice of typeface and how you make it work heavily impacts the experience of your site visitor. With our type faces, your site will look amazing.</p>
+
+<div class="dashicons dashicons-arrow-down-alt2"></div>
+
+<div class="pricing-table">
+
+<div class="one-third first">
+<h4>Basic</h4>
+<ul>
+<li>Up to 1 domain</li>
+<li>5,000 page views</li>
+<li>Includes web fonts</li>
+<li>Basic library access</li>
+</ul>
+<span class="pt-price">$9 /</span> <span class="pt-price-per">Month</span>
+</div>
+
+<div class="one-third">
+<h4 class="main">Pro</h4>
+<ul>
+<li>Unlimited domains</li>
+<li>Unlimited page views</li>
+<li>Includes web & desktop fonts</li>
+<li>Full library access</li>
+<li>Unlimited support</li>
+</ul>
+<span class="pt-price">$99 /</span> <span class="pt-price-per">Month</span>
+</div>
+
+<div class="one-third">
+<h4>Plus</h4>
+<ul>
+<li>Up to 3 domains</li>
+<li>25,000 page views</li>
+<li>Includes web fonts</li>
+<li>Basic library access</li>
+</ul>
+<span class="pt-price">$49 /</span> <span class="pt-price-per">Month</span>
+</div>
+
+<div class="pricing-table-cta">
+<a class="button" href="#">Select Your Plan</a>
+</div>
+
+</div>
